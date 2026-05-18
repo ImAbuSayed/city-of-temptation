@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - City of Temptation
+
+This log tracks the cryptographic history and versioning for the song **City of Temptation** (city-of-temptation).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-18T16:10:11.661161 | `v1` | `8140bd4a9c033104f74616f32dcccfda8c6ce2de492403b30cc7b342247c3dea` | `84f8f21a2b13bac3729c5ada1338fa892ed62a8faa29cae2ccf7e910a58f7dbb` | `2026-05-18_city-of-temptation-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
