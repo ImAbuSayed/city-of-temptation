@@ -2,6 +2,10 @@
 
 ---
 
+![City of Temptation feature image](https://raw.githubusercontent.com/ImAbuSayed/abu-sayed-song-media/main/images/city-of-temptation/feature/20260614173757012607-City-of-Temptation-Abu-Sayed-Romantic-Heartbreak-EP.-New-English-Love-Songs-2026.min.webp)
+
+---
+
 **An original song written, composed, created, and owned by [Abu Sayed](https://abusayed.com.bd/)**
 
 ---
@@ -13,9 +17,11 @@
 | **Title** | City of Temptation |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | May 18, 2026 |
+| **Created On** | June 13, 2026 at 7:56 PM |
+| **Released On** | June 14, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/city-of-temptation/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: City of Temptation](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/city-of-temptation/) |
+| **Get License** | [Official Music Licensing for City of Temptation](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=cBcV1nhDR0Q?https://imabusayed.github.io/city-of-temptation/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -45,6 +51,7 @@
 ## 🔗 Song Links
 
 - [Telegram](https://t.me/AbuSayedMusic/1559)
+- [YouTube](https://www.youtube.com/watch?v=cBcV1nhDR0Q)
 
 ---
 
